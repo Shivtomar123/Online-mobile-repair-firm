@@ -1,0 +1,49 @@
+#container{
+	margin:100px auto;
+	width:360px;
+	border:4px solid black;
+	padding:60px;
+	text-align: center;
+	height:300px;
+	border-radius: 20px;
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+body{
+	background-image: url("cool-background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+input{
+	outline-color: blue;
+	padding:5px;
+	width:200px;
+	background-color: pink;
+	border-radius: 10px;
+	border-color:red;
+}
+
+div p{
+	color:skyblue;
+}
+
+h2{
+	text-decoration: underline;
+}
+
+.add{
+	color:blue;
+	text-decoration: underline;
+}
+
+button{
+	width:80px;
+	border-radius: 8px;
+	background-color:teal;
+}
